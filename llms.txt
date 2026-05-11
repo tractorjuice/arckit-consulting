@@ -2,7 +2,7 @@
 
 > Public sector architecture governance consulting from ArcKit.
 
-ArcKit Consulting is the consulting arm of ArcKit. It provides focused architecture governance support for public sector delivery teams, with a fixed weekly engagement centred on the core project documents needed for accountable decision making.
+ArcKit Consulting is the consulting arm of ArcKit. It provides focused architecture governance support for public sector delivery teams, with a fixed weekly engagement centred on the core project documents needed for accountable decision making and assurance preparation.
 
 Canonical website: https://tractorjuice.github.io/arckit-consulting/
 Repository: https://github.com/tractorjuice/arckit-consulting
@@ -19,17 +19,29 @@ ArcKit Consulting offers a £25K/week engagement for a core public sector projec
 
 The service is designed for senior responsible owners, digital leaders, architecture teams, delivery teams, procurement teams and assurance stakeholders who need clear, defensible project evidence before major delivery, supplier or investment decisions.
 
+The weekly price reflects a compressed governance sprint. ArcKit Consulting deliberately constrains scope to the four decision artefacts, uses established public sector governance templates, captures workshops directly into final outputs and applies senior architecture judgement to produce evidence that can otherwise take traditional vendors months of discovery, template negotiation and review cycles.
+
+Outputs are shaped to support evidence discussions around:
+
+- HM Treasury Green Book appraisal and business-case evidence
+- HM Treasury Orange Book risk management
+- GOV.UK Service Standard and service assessment preparation
+- Technology Code of Practice (TCoP)
+- Government Functional Standard GovS 005 Digital
+
 ## Public Sector Benefits
 
 - Board confidence through a shared view of what the programme is trying to protect, prove and deliver.
 - Procurement readiness through clearer requirements and constraints before supplier engagement.
 - Assurance evidence for architecture review, service assessment and technology governance.
 - Risk visibility across delivery, security, data, supplier, adoption, ownership and public trust concerns.
+- Stronger policy alignment for Green Book, Orange Book, GDS Service Standard, TCoP and GovS 005 evidence needs.
 
 ## Pages
 
 - [ArcKit Consulting](https://tractorjuice.github.io/arckit-consulting/): Main consulting site covering the £25K/week offer, document pack, public sector benefits, delivery cadence and enquiry route.
+- [Sample governance pack](https://tractorjuice.github.io/arckit-consulting/samples/governance-pack.html): Representative sample outputs for principles, requirements, risk and stakeholders.
 
 ## Keywords
 
-Public sector architecture, architecture governance, enterprise architecture, government digital delivery, UK public sector, assurance, procurement readiness, service assessment, technology governance, requirements, principles, risk register, stakeholder mapping.
+Public sector architecture, architecture governance, enterprise architecture, government digital delivery, UK public sector, assurance, procurement readiness, service assessment, technology governance, requirements, principles, risk register, stakeholder mapping, Green Book, Orange Book, GDS Service Standard, Technology Code of Practice, TCoP, GovS 005 Digital.

@@ -85,6 +85,15 @@ img {
   pointer-events: none;
 }
 
+.subpage .site-header {
+  position: sticky;
+  background: var(--ink);
+}
+
+.subpage .site-header::before {
+  display: none;
+}
+
 .brand,
 .footer-brand {
   display: inline-flex;
@@ -240,6 +249,11 @@ h3 {
 .button.secondary {
   border: 1px solid rgba(255, 255, 255, 0.28);
   background: rgba(255, 255, 255, 0.08);
+  color: var(--white);
+}
+
+.button.dark {
+  background: var(--ink);
   color: var(--white);
 }
 
@@ -412,6 +426,126 @@ footer p {
   padding-top: 1rem;
 }
 
+.value-section,
+.policy-section,
+.samples-section {
+  padding: clamp(4.5rem, 9vw, 8rem) clamp(1rem, 5vw, 4rem);
+}
+
+.value-section {
+  display: grid;
+  grid-template-columns: minmax(0, 0.85fr) minmax(320px, 1fr);
+  gap: clamp(2rem, 6vw, 5rem);
+  background: var(--ink);
+  color: var(--white);
+}
+
+.value-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1px;
+  background: rgba(255, 255, 255, 0.16);
+  border: 1px solid rgba(255, 255, 255, 0.16);
+}
+
+.value-grid article {
+  min-height: 13rem;
+  background: rgba(255, 255, 255, 0.055);
+  padding: 1rem;
+}
+
+.value-grid span {
+  display: block;
+  margin-bottom: 2.8rem;
+  color: var(--green-bright);
+  font-size: 0.82rem;
+  font-weight: 840;
+}
+
+.value-grid p {
+  color: rgba(255, 255, 255, 0.66);
+}
+
+.policy-section {
+  background: var(--white);
+}
+
+.policy-header,
+.samples-section {
+  display: grid;
+  grid-template-columns: minmax(0, 0.92fr) minmax(320px, 1fr);
+  gap: clamp(2rem, 6vw, 5rem);
+  align-items: start;
+}
+
+.policy-header {
+  margin-bottom: clamp(2rem, 5vw, 4rem);
+}
+
+.policy-header p {
+  color: var(--muted);
+  font-size: 1.08rem;
+}
+
+.policy-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 1px;
+  background: var(--line);
+  border: 1px solid var(--line);
+}
+
+.policy-grid a {
+  min-height: 17rem;
+  background: var(--paper);
+  padding: 1.15rem;
+  transition: background 0.2s ease, transform 0.2s ease;
+}
+
+.policy-grid a:hover,
+.policy-grid a:focus-visible {
+  background: #eef7f3;
+  transform: translateY(-2px);
+}
+
+.policy-grid span,
+.sample-preview span {
+  display: block;
+  margin-bottom: 2.5rem;
+  color: var(--green);
+  font-size: 0.78rem;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.policy-grid p,
+.sample-preview p {
+  color: var(--muted);
+}
+
+.samples-section {
+  background: #eef2ed;
+}
+
+.sample-preview {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1px;
+  background: var(--line);
+  border: 1px solid var(--line);
+}
+
+.sample-preview article {
+  background: var(--white);
+  padding: 1rem;
+}
+
+.samples-section .button {
+  align-self: start;
+  grid-column: 2;
+  justify-self: start;
+}
+
 .delivery {
   background: var(--white);
 }
@@ -513,6 +647,102 @@ footer p {
   color: rgba(255, 255, 255, 0.64);
 }
 
+.sample-page {
+  background: var(--paper);
+}
+
+.sample-hero {
+  padding: clamp(4rem, 8vw, 7rem) clamp(1rem, 5vw, 4rem);
+}
+
+.sample-hero h1 {
+  max-width: 900px;
+  color: var(--ink);
+  font-size: clamp(3.4rem, 7vw, 7rem);
+}
+
+.sample-hero p {
+  max-width: 740px;
+  color: var(--muted);
+  font-size: 1.2rem;
+}
+
+.sample-output {
+  display: grid;
+  grid-template-columns: minmax(0, 0.35fr) minmax(320px, 1fr);
+  gap: clamp(1.5rem, 5vw, 4rem);
+  border-top: 1px solid var(--line);
+  padding: clamp(3rem, 7vw, 5rem) clamp(1rem, 5vw, 4rem);
+}
+
+.sample-output .doc-index {
+  margin-bottom: 1rem;
+}
+
+.sample-output h2 {
+  font-size: clamp(2rem, 4vw, 3.2rem);
+}
+
+.sample-block {
+  border-radius: 8px;
+  background: var(--white);
+  padding: clamp(1rem, 3vw, 2rem);
+  box-shadow: 0 18px 55px rgba(16, 22, 18, 0.08);
+}
+
+.sample-block p {
+  color: var(--muted);
+}
+
+.sample-block dl {
+  display: grid;
+  gap: 1px;
+  margin: 1.5rem 0 0;
+  background: var(--line);
+}
+
+.sample-block dl div {
+  display: grid;
+  grid-template-columns: 10rem 1fr;
+  gap: 1rem;
+  background: var(--paper);
+  padding: 0.85rem;
+}
+
+.sample-block dt,
+.sample-block th {
+  color: var(--ink);
+  font-weight: 820;
+  text-align: left;
+}
+
+.sample-block dd {
+  margin: 0;
+  color: var(--muted);
+}
+
+.sample-block table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.98rem;
+}
+
+.sample-block th,
+.sample-block td {
+  border-bottom: 1px solid var(--line);
+  padding: 0.85rem;
+  vertical-align: top;
+}
+
+.sample-block td {
+  color: var(--muted);
+}
+
+.sample-block tr:last-child th,
+.sample-block tr:last-child td {
+  border-bottom: 0;
+}
+
 @media (max-width: 1080px) {
   .hero {
     min-height: 92svh;
@@ -528,12 +758,22 @@ footer p {
 
   .document-grid,
   .timeline,
-  .outcome-columns {
+  .outcome-columns,
+  .policy-grid,
+  .sample-preview {
     grid-template-columns: repeat(2, 1fr);
   }
 
-  .outcomes {
+  .outcomes,
+  .value-section,
+  .policy-header,
+  .samples-section,
+  .sample-output {
     grid-template-columns: 1fr;
+  }
+
+  .samples-section .button {
+    grid-column: 1;
   }
 }
 
@@ -544,13 +784,13 @@ footer p {
   }
 
   .brand span {
-    max-width: 7.6rem;
+    max-width: 7.4rem;
     line-height: 1.1;
   }
 
   nav {
     justify-content: flex-end;
-    max-width: 11rem;
+    max-width: 13.2rem;
     border-radius: 8px;
     flex-wrap: wrap;
   }
@@ -591,7 +831,10 @@ footer p {
 
   .document-grid,
   .timeline,
-  .outcome-columns {
+  .outcome-columns,
+  .value-grid,
+  .policy-grid,
+  .sample-preview {
     grid-template-columns: 1fr;
   }
 
@@ -607,5 +850,51 @@ footer p {
   footer {
     align-items: flex-start;
     flex-direction: column;
+  }
+
+  .sample-block {
+    overflow-x: visible;
+  }
+
+  .sample-block dl div {
+    grid-template-columns: 1fr;
+  }
+
+  .sample-block table,
+  .sample-block thead,
+  .sample-block tbody,
+  .sample-block tr,
+  .sample-block th,
+  .sample-block td {
+    display: block;
+    width: 100%;
+  }
+
+  .sample-block thead {
+    display: none;
+  }
+
+  .sample-block tr {
+    border-bottom: 1px solid var(--line);
+    padding: 0.65rem 0;
+  }
+
+  .sample-block tr:last-child {
+    border-bottom: 0;
+  }
+
+  .sample-block th,
+  .sample-block td {
+    border-bottom: 0;
+    padding: 0.35rem 0;
+  }
+
+  .sample-block td[data-label]::before {
+    content: attr(data-label);
+    display: block;
+    margin-bottom: 0.15rem;
+    color: var(--ink);
+    font-size: 0.76rem;
+    font-weight: 820;
   }
 }
