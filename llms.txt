@@ -1,0 +1,35 @@
+# ArcKit Consulting
+
+> Public sector architecture governance consulting from ArcKit.
+
+ArcKit Consulting is the consulting arm of ArcKit. It provides focused architecture governance support for public sector delivery teams, with a fixed weekly engagement centred on the core project documents needed for accountable decision making.
+
+Canonical website: https://tractorjuice.github.io/arckit-consulting/
+Repository: https://github.com/tractorjuice/arckit-consulting
+Contact: mark.craddock@mcc.co.uk
+
+## Core Offer
+
+ArcKit Consulting offers a £25K/week engagement for a core public sector project document pack:
+
+- Principles
+- Requirements
+- Risk
+- Stakeholders
+
+The service is designed for senior responsible owners, digital leaders, architecture teams, delivery teams, procurement teams and assurance stakeholders who need clear, defensible project evidence before major delivery, supplier or investment decisions.
+
+## Public Sector Benefits
+
+- Board confidence through a shared view of what the programme is trying to protect, prove and deliver.
+- Procurement readiness through clearer requirements and constraints before supplier engagement.
+- Assurance evidence for architecture review, service assessment and technology governance.
+- Risk visibility across delivery, security, data, supplier, adoption, ownership and public trust concerns.
+
+## Pages
+
+- [ArcKit Consulting](https://tractorjuice.github.io/arckit-consulting/): Main consulting site covering the £25K/week offer, document pack, public sector benefits, delivery cadence and enquiry route.
+
+## Keywords
+
+Public sector architecture, architecture governance, enterprise architecture, government digital delivery, UK public sector, assurance, procurement readiness, service assessment, technology governance, requirements, principles, risk register, stakeholder mapping.
