@@ -1,25 +1,27 @@
-# ArcKit Consulting
+# ArcKit FDE
 
-> Public sector architecture governance consulting from ArcKit.
+> Forward Deploy Engineering for UK public sector architecture.
 
-ArcKit Consulting is the consulting arm of ArcKit. It provides focused architecture governance support for public sector delivery teams, with a fixed weekly engagement centred on the core project documents needed for accountable decision making and assurance preparation.
+ArcKit Forward Deploy Engineering (ArcKit FDE) is the embedded engineering arm of ArcKit. It places senior architecture engineers inside UK public sector delivery teams to produce decision-grade governance evidence and to keep that evidence current through assurance, procurement and delivery.
 
 Canonical website: https://tractorjuice.github.io/arckit-consulting/
 Repository: https://github.com/tractorjuice/arckit-consulting
 Contact: mark.craddock@mcc.co.uk
 
-## Core Offer
+## What Forward Deploy Engineering means here
 
-ArcKit Consulting offers a £25K/week engagement for a core public sector project document pack:
+ArcKit FDE follows the forward deploy model: a small number of senior architects deployed into the constraints a programme actually lives inside, including classification rules, legacy estate, supplier contracts, assurance routes, departmental governance, ministerial timelines and AI policy boundaries. The ArcKit toolkit is operated alongside the client team so that discovery, evidence and traceability work that traditionally needs a large consultancy bench is compressed into focused sprints.
+
+## First sprint (£25K, one week)
+
+The first sprint produces a fixed four-artefact pack:
 
 - Principles
 - Requirements
 - Risk
 - Stakeholders
 
-The service is designed for senior responsible owners, digital leaders, architecture teams, delivery teams, procurement teams and assurance stakeholders who need clear, defensible project evidence before major delivery, supplier or investment decisions.
-
-The weekly price reflects a compressed governance sprint. ArcKit Consulting deliberately constrains scope to the four decision artefacts, uses established public sector governance templates, captures workshops directly into final outputs and applies senior architecture judgement to produce evidence that can otherwise take traditional vendors months of discovery, template negotiation and review cycles.
+The sprint is designed for senior responsible owners, digital leaders, architecture teams, delivery teams, procurement teams and assurance stakeholders who need clear, defensible evidence before major delivery, supplier or investment decisions.
 
 Outputs are shaped to support evidence discussions around:
 
@@ -29,19 +31,28 @@ Outputs are shaped to support evidence discussions around:
 - Technology Code of Practice (TCoP)
 - Government Functional Standard GovS 005 Digital
 
-## Public Sector Benefits
+## Follow-on embedded engagement
 
-- Board confidence through a shared view of what the programme is trying to protect, prove and deliver.
-- Procurement readiness through clearer requirements and constraints before supplier engagement.
-- Assurance evidence for architecture review, service assessment and technology governance.
-- Risk visibility across delivery, security, data, supplier, adoption, ownership and public trust concerns.
-- Stronger policy alignment for Green Book, Orange Book, GDS Service Standard, TCoP and GovS 005 evidence needs.
+After the first sprint, ArcKit FDE can stay embedded on a rolling weekly basis. Typical follow-on areas:
+
+- Design and decisions: ADRs, high-level design, traceability, conformance reviews
+- Procurement and vendor: SOW, evaluation frameworks, scoring, G-Cloud and DOS clarifications, build vs buy
+- Assurance and AI: service assessment readiness, Secure by Design, DPIA, ATRS, AI Playbook compliance
+- Team enablement: standing the client team up to run ArcKit, Claude Code and the governance cadence independently
+
+## Public sector benefits
+
+- Board confidence through a shared view of what the programme is trying to protect, prove and deliver
+- Procurement readiness through clearer requirements and constraints before supplier engagement
+- Assurance evidence for architecture review, service assessment and technology governance
+- Risk visibility across delivery, security, data, supplier, adoption, ownership and public trust concerns
+- Stronger policy alignment for Green Book, Orange Book, GDS Service Standard, TCoP and GovS 005 evidence needs
 
 ## Pages
 
-- [ArcKit Consulting](https://tractorjuice.github.io/arckit-consulting/): Main consulting site covering the £25K/week offer, document pack, public sector benefits, delivery cadence and enquiry route.
-- [Sample governance pack](https://tractorjuice.github.io/arckit-consulting/samples/governance-pack.html): Representative sample outputs for principles, requirements, risk and stakeholders.
+- [ArcKit FDE](https://tractorjuice.github.io/arckit-consulting/): Main site covering the forward deploy engineering model, the £25K/week first sprint, the follow-on embedded engagement, public sector policy alignment and enquiry route.
+- [Sample first-sprint pack](https://tractorjuice.github.io/arckit-consulting/samples/governance-pack.html): Representative sample outputs for principles, requirements, risk and stakeholders.
 
 ## Keywords
 
-Public sector architecture, architecture governance, enterprise architecture, government digital delivery, UK public sector, assurance, procurement readiness, service assessment, technology governance, requirements, principles, risk register, stakeholder mapping, Green Book, Orange Book, GDS Service Standard, Technology Code of Practice, TCoP, GovS 005 Digital.
+Forward deploy engineering, FDE, embedded architecture, public sector architecture, architecture governance, enterprise architecture, government digital delivery, UK public sector, assurance, procurement readiness, service assessment, technology governance, requirements, principles, risk register, stakeholder mapping, Green Book, Orange Book, GDS Service Standard, Technology Code of Practice, TCoP, GovS 005 Digital, AI deployment, Claude Code, ArcKit toolkit.
