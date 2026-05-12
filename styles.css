@@ -540,6 +540,22 @@ footer p {
   padding: 1rem;
 }
 
+.sample-preview article a {
+  color: var(--green);
+  font-weight: 720;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.sample-preview article a:hover,
+.sample-preview article a:focus-visible {
+  color: var(--ink);
+}
+
+.sample-preview article p:last-child {
+  margin-bottom: 0;
+}
+
 .samples-section .button {
   align-self: start;
   grid-column: 2;
