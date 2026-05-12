@@ -4,8 +4,8 @@
 
 ArcKit Forward Deploy Engineering (ArcKit FDE) is the embedded engineering arm of ArcKit. It places senior architecture engineers inside UK public sector delivery teams to produce decision-grade governance evidence and to keep that evidence current through assurance, procurement and delivery.
 
-Canonical website: https://tractorjuice.github.io/arckit-consulting/
-Repository: https://github.com/tractorjuice/arckit-consulting
+Canonical website: https://tractorjuice.github.io/arckit-fde/
+Repository: https://github.com/tractorjuice/arckit-fde
 Contact: mark.craddock@mcc.co.uk
 
 ## What Forward Deploy Engineering means here
@@ -50,8 +50,8 @@ After the first sprint, ArcKit FDE can stay embedded on a rolling weekly basis. 
 
 ## Pages
 
-- [ArcKit FDE](https://tractorjuice.github.io/arckit-consulting/): Main site covering the forward deploy engineering model, the £25K/week first sprint, the follow-on embedded engagement, public sector policy alignment and enquiry route.
-- [Sample first-sprint pack](https://tractorjuice.github.io/arckit-consulting/samples/governance-pack.html): Representative sample outputs for principles, requirements, risk and stakeholders.
+- [ArcKit FDE](https://tractorjuice.github.io/arckit-fde/): Main site covering the forward deploy engineering model, the £25K/week first sprint, the follow-on embedded engagement, public sector policy alignment and enquiry route.
+- [Sample first-sprint pack](https://tractorjuice.github.io/arckit-fde/samples/governance-pack.html): Representative sample outputs for principles, requirements, risk and stakeholders.
 
 ## Keywords
 

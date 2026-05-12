@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tractorjuice.github.io/arckit-consulting/sitemap.xml
+Sitemap: https://tractorjuice.github.io/arckit-fde/sitemap.xml
