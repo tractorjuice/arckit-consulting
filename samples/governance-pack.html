@@ -29,11 +29,16 @@
         <img src="../assets/arckit-mark.svg" width="44" height="20" alt="">
         <span>ArcKit FDE</span>
       </a>
-      <nav>
-        <a class="nav-secondary" href="../index.html#what">What is FDE</a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav" aria-label="Open menu" onclick="var n=document.getElementById('primary-nav');var o=n.classList.toggle('nav--open');this.setAttribute('aria-expanded',o);this.setAttribute('aria-label',o?'Close menu':'Open menu')">
+        <span class="nav-toggle__bar" aria-hidden="true"></span>
+        <span class="nav-toggle__bar" aria-hidden="true"></span>
+        <span class="nav-toggle__bar" aria-hidden="true"></span>
+      </button>
+      <nav id="primary-nav" onclick="if(event.target.tagName==='A'){this.classList.remove('nav--open');var b=document.querySelector('.nav-toggle');if(b){b.setAttribute('aria-expanded','false');b.setAttribute('aria-label','Open menu')}}">
+        <a href="../index.html#what">What is FDE</a>
         <a href="../index.html#offer">First sprint</a>
-        <a class="nav-secondary" href="../index.html#embed">Embed</a>
-        <a class="nav-secondary" href="../index.html#policy">Policy</a>
+        <a href="../index.html#embed">Embed</a>
+        <a href="../index.html#policy">Policy</a>
         <a class="nav-cta" href="mailto:mark.craddock@mcc.co.uk?subject=ArcKit%20FDE%20enquiry">Enquire</a>
       </nav>
     </header>
