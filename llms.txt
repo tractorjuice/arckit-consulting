@@ -2,7 +2,7 @@
 
 > Forward Deploy Engineering for UK public sector architecture. Bootstrap any project in a week.
 
-ArcKit Forward Deploy Engineering (ArcKit FDE) is the embedded engineering arm of ArcKit. It places a small team of senior architecture engineers inside UK public sector delivery teams to bootstrap any project in a week, using real AI to produce decision-grade governance evidence and to keep that evidence current through assurance, procurement and delivery.
+ArcKit Forward Deploy Engineering (ArcKit FDE) is the embedded engineering arm of ArcKit. It places a small team of senior architecture engineers inside UK public sector delivery teams to bootstrap any project in a week, using real agentic AI to produce decision-grade governance evidence and to keep that evidence current through assurance, procurement and delivery.
 
 Canonical website: https://tractorjuice.github.io/arckit-fde/
 Repository: https://github.com/tractorjuice/arckit-fde
@@ -10,8 +10,8 @@ Contact: mark@firstliot.uk
 
 ## Positioning
 
-- Real AI in the room. ArcKit runs 117 AI commands on Claude Code, Codex, Gemini, OpenCode and Copilot. The toolkit produces structured first drafts; the FDE applies senior judgement and decides what good looks like.
-- Small teams by design. A typical engagement is one or two FDEs. AI absorbs the work that used to require analysts, junior consultants and review cycles.
+- Real agentic AI in the room. ArcKit runs 117 agentic AI commands on Claude Code, Codex, Gemini, OpenCode and Copilot. The toolkit produces structured first drafts; the FDE applies senior judgement and decides what good looks like.
+- Small teams by design. A typical engagement is one or two FDEs. Agentic AI absorbs the work that used to require analysts, junior consultants and review cycles.
 - Accelerated programmes. The bootstrap sprint compresses three months of governance evidence into one week, moving programmes through gates, procurement and assurance ahead of the dates in the diary.
 
 ## Bootstrap sprint (£25K, one week, fixed price)
@@ -61,4 +61,4 @@ Follow-on engagements are scoped and priced on the work involved, not on time bi
 
 ## Keywords
 
-Forward deploy engineering, FDE, embedded architecture, bootstrap, public sector architecture, architecture governance, enterprise architecture, government digital delivery, UK public sector, assurance, procurement readiness, service assessment, technology governance, requirements, principles, risk register, stakeholder mapping, Green Book, Orange Book, GDS Service Standard, Technology Code of Practice, TCoP, GovS 005 Digital, AI deployment, Claude Code, ArcKit toolkit.
+Forward deploy engineering, FDE, embedded architecture, bootstrap, public sector architecture, architecture governance, enterprise architecture, government digital delivery, UK public sector, assurance, procurement readiness, service assessment, technology governance, requirements, principles, risk register, stakeholder mapping, Green Book, Orange Book, GDS Service Standard, Technology Code of Practice, TCoP, GovS 005 Digital, agentic AI, AI deployment, Claude Code, ArcKit toolkit.
