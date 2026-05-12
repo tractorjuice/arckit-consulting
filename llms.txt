@@ -1,25 +1,29 @@
 # ArcKit FDE
 
-> Forward Deploy Engineering for UK public sector architecture.
+> Forward Deploy Engineering for UK public sector architecture. Bootstrap any project in a week.
 
-ArcKit Forward Deploy Engineering (ArcKit FDE) is the embedded engineering arm of ArcKit. It places senior architecture engineers inside UK public sector delivery teams to produce decision-grade governance evidence and to keep that evidence current through assurance, procurement and delivery.
+ArcKit Forward Deploy Engineering (ArcKit FDE) is the embedded engineering arm of ArcKit. It places a small team of senior architecture engineers inside UK public sector delivery teams to bootstrap any project in a week, using real AI to produce decision-grade governance evidence and to keep that evidence current through assurance, procurement and delivery.
 
 Canonical website: https://tractorjuice.github.io/arckit-fde/
 Repository: https://github.com/tractorjuice/arckit-fde
-Contact: mark.craddock@mcc.co.uk
+Contact: mark@firstliot.uk
 
-## What Forward Deploy Engineering means here
+## Positioning
 
-ArcKit FDE follows the forward deploy model: a small number of senior architects deployed into the constraints a programme actually lives inside, including classification rules, legacy estate, supplier contracts, assurance routes, departmental governance, ministerial timelines and AI policy boundaries. The ArcKit toolkit is operated alongside the client team so that discovery, evidence and traceability work that traditionally needs a large consultancy bench is compressed into focused sprints.
+- Real AI in the room. ArcKit runs 117 AI commands on Claude Code, Codex, Gemini, OpenCode and Copilot. The toolkit produces structured first drafts; the FDE applies senior judgement and decides what good looks like.
+- Small teams by design. A typical engagement is one or two FDEs. AI absorbs the work that used to require analysts, junior consultants and review cycles.
+- Accelerated programmes. The bootstrap sprint compresses three months of governance evidence into one week, moving programmes through gates, procurement and assurance ahead of the dates in the diary.
 
-## First sprint (£25K, one week)
+## Bootstrap sprint (£25K, one week, fixed price)
 
-The first sprint produces a fixed four-artefact pack:
+The bootstrap sprint produces a fixed four-artefact pack:
 
 - Principles
 - Requirements
 - Risk
 - Stakeholders
+
+£25K is the price of the outputs, not a weekly retainer. Delivery is five working days, board-ready by Friday.
 
 The sprint is designed for senior responsible owners, digital leaders, architecture teams, delivery teams, procurement teams and assurance stakeholders who need clear, defensible evidence before major delivery, supplier or investment decisions.
 
@@ -33,12 +37,14 @@ Outputs are shaped to support evidence discussions around:
 
 ## Follow-on embedded engagement
 
-After the first sprint, ArcKit FDE can stay embedded on a rolling weekly basis. Typical follow-on areas:
+After the bootstrap, ArcKit FDE can stay embedded to keep the architecture position alive as the programme moves. Typical follow-on areas:
 
 - Design and decisions: ADRs, high-level design, traceability, conformance reviews
 - Procurement and vendor: SOW, evaluation frameworks, scoring, G-Cloud and DOS clarifications, build vs buy
 - Assurance and AI: service assessment readiness, Secure by Design, DPIA, ATRS, AI Playbook compliance
 - Team enablement: standing the client team up to run ArcKit, Claude Code and the governance cadence independently
+
+Follow-on engagements are scoped and priced on the work involved, not on time billed.
 
 ## Public sector benefits
 
@@ -50,9 +56,9 @@ After the first sprint, ArcKit FDE can stay embedded on a rolling weekly basis. 
 
 ## Pages
 
-- [ArcKit FDE](https://tractorjuice.github.io/arckit-fde/): Main site covering the forward deploy engineering model, the £25K/week first sprint, the follow-on embedded engagement, public sector policy alignment and enquiry route.
-- [Sample first-sprint pack](https://tractorjuice.github.io/arckit-fde/samples/governance-pack.html): Representative sample outputs for principles, requirements, risk and stakeholders.
+- [ArcKit FDE](https://tractorjuice.github.io/arckit-fde/): Main site covering the forward deploy engineering model, the £25K bootstrap sprint, the follow-on embedded engagement, public sector policy alignment and enquiry route.
+- [Sample bootstrap pack](https://tractorjuice.github.io/arckit-fde/samples/governance-pack.html): Representative sample outputs for principles, requirements, risk and stakeholders.
 
 ## Keywords
 
-Forward deploy engineering, FDE, embedded architecture, public sector architecture, architecture governance, enterprise architecture, government digital delivery, UK public sector, assurance, procurement readiness, service assessment, technology governance, requirements, principles, risk register, stakeholder mapping, Green Book, Orange Book, GDS Service Standard, Technology Code of Practice, TCoP, GovS 005 Digital, AI deployment, Claude Code, ArcKit toolkit.
+Forward deploy engineering, FDE, embedded architecture, bootstrap, public sector architecture, architecture governance, enterprise architecture, government digital delivery, UK public sector, assurance, procurement readiness, service assessment, technology governance, requirements, principles, risk register, stakeholder mapping, Green Book, Orange Book, GDS Service Standard, Technology Code of Practice, TCoP, GovS 005 Digital, AI deployment, Claude Code, ArcKit toolkit.
