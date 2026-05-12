@@ -806,7 +806,6 @@ footer p {
 
   nav {
     justify-content: flex-end;
-    max-width: 13.2rem;
     border-radius: 8px;
     flex-wrap: wrap;
   }
@@ -814,6 +813,10 @@ footer p {
   nav a {
     padding: 0.5rem 0.62rem;
     font-size: 0.8rem;
+  }
+
+  .nav-secondary {
+    display: none;
   }
 
   .nav-cta {
