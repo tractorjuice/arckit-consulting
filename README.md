@@ -37,8 +37,8 @@ GitHub Pages is configured to publish from the `main` branch root. Pushes to `ma
 
 ## Core offer
 
-- **First sprint (£25K, one week)**: Principles, Requirements, Risk, Stakeholders
-- **Follow-on embedded delivery**: Design and decisions, procurement and vendor, assurance and AI, team enablement
+- **Bootstrap sprint (£25K fixed price, delivered in one week)**: Principles, Requirements, Risk, Stakeholders. Not a weekly retainer.
+- **Follow-on embedded delivery**: Design and decisions, procurement and vendor, assurance and AI, team enablement. Scoped per engagement.
 
 Outputs are shaped for HM Treasury Green Book and Orange Book, GOV.UK Service Standard, Technology Code of Practice (TCoP), and Government Functional Standard GovS 005 Digital.
 
@@ -48,4 +48,4 @@ Outputs are shaped for HM Treasury Green Book and Orange Book, GOV.UK Service St
 
 ## Contact
 
-mark.craddock@mcc.co.uk
+mark@firstliot.uk
