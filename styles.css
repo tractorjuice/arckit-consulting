@@ -331,16 +331,12 @@ h3 {
   color: rgba(255, 255, 255, 0.72);
 }
 
-.hero-panel-alt {
-  display: block;
-  margin-bottom: 1rem;
-  color: rgba(255, 255, 255, 0.72);
-  font-size: 0.92rem;
-}
-
-.hero-panel-alt strong {
+.price-alt {
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.18);
+  font-size: 3rem;
   color: var(--green-bright);
-  font-weight: 840;
 }
 
 .panel-line {
