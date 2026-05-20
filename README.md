@@ -8,7 +8,7 @@ Live site: <https://tractorjuice.github.io/arckit-fde/>
 
 ## The bootstrap sprint
 
-**£25K. One week. Four documents that unlock decisions.**
+**£25K intensive (one week) or £35K spread (one day a week for five weeks). Four documents that unlock decisions.**
 
 1. **Principles**. Decision rules that connect policy intent, service outcomes, technology constraints and delivery trade-offs.
 2. **Requirements**. A structured set that separates user, policy, data, security, integration and operational needs.

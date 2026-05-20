@@ -14,7 +14,7 @@ Contact: mark@firstliot.uk
 - Small teams by design. A typical engagement is one or two FDEs. Agentic AI absorbs the work that used to require analysts, junior consultants and review cycles.
 - Accelerated programmes. The bootstrap sprint compresses three months of governance evidence into one week, moving programmes through gates, procurement and assurance ahead of the dates in the diary.
 
-## Bootstrap sprint (£25K, one week, fixed price)
+## Bootstrap sprint (£25K intensive or £35K spread, fixed price)
 
 The bootstrap sprint produces a fixed four-artefact pack:
 
@@ -23,7 +23,7 @@ The bootstrap sprint produces a fixed four-artefact pack:
 - Risk
 - Stakeholders
 
-£25K is the price of the outputs, not a weekly retainer. Delivery is five working days, board-ready by Friday.
+£25K (intensive) or £35K (spread) is the price of the outputs, not a weekly retainer. The intensive cadence is five consecutive working days, board-ready by Friday; the spread cadence is the same five days delivered one day a week across five weeks.
 
 The sprint is designed for senior responsible owners, digital leaders, architecture teams, delivery teams, procurement teams and assurance stakeholders who need clear, defensible evidence before major delivery, supplier or investment decisions.
 
@@ -56,7 +56,7 @@ Follow-on engagements are scoped and priced on the work involved, not on time bi
 
 ## Pages
 
-- [ArcKit FDE](https://tractorjuice.github.io/arckit-fde/): Main site covering the forward deploy engineering model, the £25K bootstrap sprint, the follow-on embedded engagement, public sector policy alignment and enquiry route.
+- [ArcKit FDE](https://tractorjuice.github.io/arckit-fde/): Main site covering the forward deploy engineering model, the bootstrap sprint pricing options (£25K intensive and £35K spread), the follow-on embedded engagement, public sector policy alignment and enquiry route.
 - [Sample bootstrap pack](https://tractorjuice.github.io/arckit-fde/samples/governance-pack.html): Representative sample outputs for principles, requirements, risk and stakeholders.
 
 ## Keywords
