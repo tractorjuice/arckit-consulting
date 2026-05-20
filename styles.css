@@ -474,7 +474,8 @@ footer p {
 
 .value-section,
 .policy-section,
-.samples-section {
+.samples-section,
+.pricing {
   padding: clamp(4.5rem, 9vw, 8rem) clamp(1rem, 5vw, 4rem);
 }
 
@@ -606,6 +607,57 @@ footer p {
   align-self: start;
   grid-column: 2;
   justify-self: start;
+}
+
+.pricing {
+  background: var(--ink);
+  color: var(--white);
+}
+
+.pricing-header {
+  display: grid;
+  grid-template-columns: minmax(0, 0.92fr) minmax(320px, 1fr);
+  gap: clamp(2rem, 6vw, 5rem);
+  align-items: start;
+  margin-bottom: clamp(2rem, 5vw, 4rem);
+}
+
+.pricing-header p {
+  margin-bottom: 0;
+  color: rgba(255, 255, 255, 0.68);
+  font-size: 1.08rem;
+}
+
+.pricing-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1px;
+  background: rgba(255, 255, 255, 0.16);
+  border: 1px solid rgba(255, 255, 255, 0.16);
+}
+
+.pricing-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  background: rgba(255, 255, 255, 0.055);
+  padding: clamp(1.4rem, 3vw, 2.2rem);
+}
+
+.pricing-tag {
+  margin-bottom: 1.6rem;
+  border-radius: 999px;
+  background: var(--green-bright);
+  color: #05221d;
+  padding: 0.32rem 0.72rem;
+  font-size: 0.78rem;
+  font-weight: 840;
+  text-transform: uppercase;
+}
+
+.pricing-card p {
+  margin-bottom: 0;
+  color: rgba(255, 255, 255, 0.68);
 }
 
 .delivery {
@@ -829,6 +881,7 @@ footer p {
   .outcomes,
   .value-section,
   .policy-header,
+  .pricing-header,
   .samples-section,
   .sample-output {
     grid-template-columns: 1fr;
@@ -914,6 +967,7 @@ footer p {
   .timeline,
   .outcome-columns,
   .value-grid,
+  .pricing-grid,
   .policy-grid,
   .sample-preview {
     grid-template-columns: 1fr;
